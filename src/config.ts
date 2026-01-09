@@ -8,9 +8,6 @@ export const siteConfig = {
     github: "https://github.com/kanesea2542",
     linkedin: "https://www.linkedin.com/in/-sean-kane/",
   },
-  aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
