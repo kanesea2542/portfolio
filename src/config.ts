@@ -6,14 +6,18 @@ export const siteConfig = {
   social: {
     email: "sean.ryan.kane@gmail.com",
     github: "https://github.com/kanesea2542",
+    linkedin: "https://www.linkedin.com/in/-sean-kane/",
   },
+  aboutMe:
+    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
-      name: "Dual-Mode BLE Beacon",
+      name: "AI Dev Roundup Newsletter",
       description:
         "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
       link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["Altium Designer", "Embedded C", "RF PCB Design"],
+      skills: ["React", "Node.js", "AWS"],
     },
     {
       name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
@@ -64,13 +68,23 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "Stony Brook University",
-      degree: "Bachelor of Engineering in Electrical Engineering",
-      dateRange: "2023 - 2027",
+      school: "University Name",
+      degree: "Bachelor of Science in Computer Science",
+      dateRange: "2014 - 2018",
       achievements: [
-        "GPA: 3.8 GPA",
+        "Graduated Magna Cum Laude with 3.8 GPA",
         "Dean's List all semesters",
-        "President of IEEE Stony Brook Chapter",
+        "President of Computer Science Club",
+      ],
+    },
+    {
+      school: "Online Platform",
+      degree: "Full Stack Development Certificate",
+      dateRange: "2019",
+      achievements: [
+        "Completed 500+ hours of coursework",
+        "Built 10+ portfolio projects",
+        "Specialized in React and Node.js",
       ],
     },
   ],
