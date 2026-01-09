@@ -23,14 +23,14 @@ export const siteConfig = {
       name: "Embedded Motion Control System",
       description:
         "An embedded motion control system using an STM32 microcontroller and DRV8825 stepper drivers, interfacing with an NVIDIA Jetson for high-level command and control. Implemented low-level motor control, hardware abstraction, and communication between the Jetson and microcontroller to drive multiple stepper motors reliably.",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
+      link: "https://drive.google.com/file/d/1dvP4PLauzXKpEvu9907UPOQ-2DVjib5v/view?usp=sharing",
       skills: ["Altium Designer", "Linux", "Differential Pairs"],
     },
     {
       name: "Interrupt-Driven Embedded Interface System",
       description:
         "A bare-metal embedded system on the AVR128DB48 featuring interrupt-driven firmware, peripheral configuration, and reliable serial communication for real-time input and output handling.",
-      link: "https://extensionkit.io/?ref=devportfolio",
+      link: "https://drive.google.com/file/d/19mF13jmOQQvSY6MpdVP9oDVe8bMr1Awv/view?usp=sharing",
       skills: ["AVR128DB48", "AVR Assembly", "Logic Analyzer"],
     },
   ],
