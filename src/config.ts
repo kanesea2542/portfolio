@@ -8,6 +8,7 @@ export const siteConfig = {
     github: "https://github.com/kanesea2542",
     linkedin: "https://www.linkedin.com/in/-sean-kane/",
   },
+  aboutMe:,
   projects: [
     {
       name: "AI Dev Roundup Newsletter",
