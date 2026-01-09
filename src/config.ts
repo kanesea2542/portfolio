@@ -16,7 +16,7 @@ export const siteConfig = {
       name: "Dual-Mode BLE Beacon",
       description:
         "A dual-mode Bluetooth Low Energy (BLE) beacon using the Nordic nRF52 platform, featuring custom PCB design, and wireless debugging to support multiple operating modes.",
-      link: "https://aidevroundup.com/?ref=devportfolio",
+      link: "https://drive.google.com/file/d/1oSUkM8iKJQTDxW3LEcr5OQbL_ix2yaBl/view?usp=sharing",
       skills: ["Altium Designer", "Oscilloscope", "Fusion 360"],
     },
     {
