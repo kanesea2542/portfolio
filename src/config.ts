@@ -68,23 +68,13 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Stony Brook University",
+      degree: "Bachelor of Engineering in Electrical Engineering",
+      dateRange: "2023 - 2027",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
+        "GPA: 3.8/4.0",
         "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
-    },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "President of IEEE Student Chapter",
       ],
     },
   ],
