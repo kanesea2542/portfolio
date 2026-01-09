@@ -52,7 +52,7 @@ export const siteConfig = {
       bullets: [
         "Directing technical programming and professional events for the IEEE student chapter, expanding engagement and hands-on learning opportunities.",
         "Oversee planning and execution of multi-organization events by coordinating with faculty, sponsors, and IEEE regional leadership.",
-        "Managing chapter operations, budgeting, and logistics to support consistent programming and hands-on engineering opportunities for members.
+        "Managing chapter operations, budgeting, and logistics to support consistent programming and hands-on engineering opportunities for members."
       ],
     },
     {
